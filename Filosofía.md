@@ -2,7 +2,7 @@
 
 ## Filosofía DevOps
 
-La **filosofía DevOps** se centra en romper las barreras tradicionales entre los equipos de desarrollo (Dev) y operaciones (Ops), promoviendo una **cultura de colaboración, automatización y mejora continua**. Es una evolución cultural y organizativa que cambia la manera en que las empresas construyen, prueban, entregan y mantienen el software. A continuación, te cuento los principios clave de esta filosofía:
+La **filosofía DevOps** se centra en romper las barreras tradicionales entre los equipos de desarrollo (Dev) y operaciones (Ops), promoviendo una **cultura de colaboración, automatización y mejora continua**. Es una evolución cultural y organizativa que cambia la manera en que las empresas construyen, prueban, entregan y mantienen el software. 
 
 ### 1. **Colaboración y comunicación**
 Uno de los pilares de DevOps es derribar los **silos** organizativos que suelen separar a los desarrolladores y los equipos de operaciones. En lugar de trabajar en áreas aisladas, ambos equipos colaboran desde el inicio hasta el final del ciclo de vida del software. Esta sinergia mejora la eficiencia y reduce los malentendidos o retrasos. 
